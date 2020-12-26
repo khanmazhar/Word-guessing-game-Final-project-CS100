@@ -1,0 +1,10 @@
+			Word Guessing Game
+
+                    In this game, the user has to guess a word in limited number of tries.
+                    The number of tries depends on the difficulty level of the round.
+                    The difficulty level and associated number of tries are:
+                    Hard:   3 tries
+                    Medium: 6 tries
+                    Easy:   10 tries
+                    User can also keep track of the number of rounds won and lost.
+		    
